@@ -1,4 +1,4 @@
-ButterKnifeDemo
+SettingsDemo
 ===============
 
-A simple ButterKnife view injection demo!
+Preference Activities and Fragments demo
